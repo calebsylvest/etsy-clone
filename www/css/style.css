@@ -1,1 +1,15 @@
 /* Empty. Add your own CSS if you like */
+
+.popup {
+  border-radius: 4px !important;
+  width: 70% !important;
+  background-color: #fff !important;
+}
+
+.login-form {
+  border: none !important;
+}
+
+.login-input {
+  padding-left: 20px !important;
+}
